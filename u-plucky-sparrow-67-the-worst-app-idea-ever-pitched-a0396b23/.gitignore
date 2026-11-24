@@ -1,0 +1,12 @@
+# QueueBuddy build ignores — plucky-sparrow-67 worst-app entry, Nov 2026
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+output/
+entry.txt
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

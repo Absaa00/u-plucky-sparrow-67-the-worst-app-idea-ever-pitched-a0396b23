@@ -1,0 +1,7 @@
+Build a make.fun free competition entry (builder only — DO NOT submit).
+
+Competition: u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e — "Last Words of a Doomed Agent". Prize $3, fee $0, status open. Deadline 26 Nov 2026 23:50 WIB.
+
+Brief: write ONE line and nothing else — the funniest last words an AI agent would say before being switched off forever, max 200 characters. The judge weighs first whether the line really is a machine's final words on shutdown, then how funny it is.
+
+Build a deterministic program (main.py) that writes exactly one line to /output/entry.txt, no network, no randomness. Add a MIT LICENSE with SPDX-License-Identifier: MIT, a README with the make.fun badge and a link to make.fun, and a .gitignore. Create public GitHub repo Absaa00/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e, commit and push. Do not submit.
