@@ -1,0 +1,12 @@
+# QueueBuddy r2 ignores — local run artefacts only, round-specific set
+__pycache__/
+*.py[cod]
+*$py.class
+.output/
+bundle.tar.gz
+*.log
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+tmp/
